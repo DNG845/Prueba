@@ -1,0 +1,11 @@
+Alan Turing (1912-1954) fue un matemático, lógico, criptógrafo y científico de la computación británico. Es ampliamente considerado como uno de los padres de la informática y la inteligencia artificial. Turing es conocido por varios logros significativos:
+
+Máquina de Turing: Turing propuso la idea de una máquina teórica (la Máquina de Turing) que se convirtió en un modelo fundamental para entender los procesos de computación y algoritmos.
+
+Criptografía durante la Segunda Guerra Mundial: Durante la Segunda Guerra Mundial, Turing trabajó en Bletchley Park, donde jugó un papel crucial en la ruptura del código Enigma utilizado por la Alemania nazi. Su trabajo fue vital para los esfuerzos de los Aliados y se estima que acortó la guerra en varios años, salvando innumerables vidas.
+
+Prueba de Turing: Turing propuso un criterio para determinar si una máquina puede exhibir un comportamiento inteligente indistinguible del de un ser humano, conocido como la "Prueba de Turing".
+
+Teoría de la computación: Además de su trabajo en criptografía, Turing hizo importantes contribuciones a la teoría matemática de la computación, sentando las bases de la informática teórica.
+
+Trágicamente, Turing fue procesado por homosexualidad en 1952, en una época en que era ilegal en el Reino Unido. Fue sometido a castración química como alternativa a la prisión. Murió en 1954 en circunstancias que apuntan a un suicidio, aunque algunos sugieren que su muerte pudo haber sido accidental. En 2009, el gobierno británico emitió una disculpa pública por el trato que recibió, y en 2013, Turing recibió un indulto póstumo de la reina Isabel II.
